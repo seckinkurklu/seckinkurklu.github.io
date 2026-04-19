@@ -11,28 +11,29 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* B.S. in CEIT, Middle East Technical University, 2023- Present
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Dec 2024 - Present: Human Data
+  * xAI
+  * Feeding Grok with quality data in MACROHARD and post-training teams.
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2025: Undergraduate Research Assistant
+  * Health Sciences University
+  * Analyzed complex medical datasets, focusing on differential diagnosis
+and remote diagnosis. Processed and cleaned clinical data, ensuring data integrity for statistical modeling and research validation.
+  * Supervisor: Dr.Mehmet Yıldırım
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Spring 2025: Undergraduate Research Assistant
+  * METU BILTIR Centre
+  * Assisted upperclassmen and professors on their AI research
+
+
+
+<!--
   
-Skills
+Skills 
 ======
 * Skill 1
 * Skill 2

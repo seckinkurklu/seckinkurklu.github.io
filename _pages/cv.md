@@ -9,9 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
+
+
 Education
 ======
 * B.S. in CEIT, Middle East Technical University, 2023- Present
+
 
 Work experience
 ======
@@ -63,3 +66,4 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+-->

@@ -15,6 +15,7 @@ Education
 ======
 * B.S. in CEIT, Middle East Technical University, 2023- Present
 
+#
 
 Work experience
 ======

@@ -28,4 +28,5 @@ I worked at this small startup as a design engineer intern during the summer of 
 
 **Lesson learned:** Build for the sake of building not for the money.
 
+
 -->

@@ -30,7 +30,7 @@ and remote diagnosis. Processed and cleaned clinical data, ensuring data integri
   * Supervisor: Dr.Mehmet Yıldırım
 
 * Spring 2025: Undergraduate Research Assistant
-  * METU BILTIR Centre
+  * METU BILTIR Center
   * Assisted upperclassmen and professors on their AI research
 
 

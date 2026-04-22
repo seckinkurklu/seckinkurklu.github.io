@@ -11,11 +11,11 @@ I'm a sophomore student at Middle East Technical University
 
 I used to do backend development with Java and Spring. However, I discovered that my real passion lies deep in machine learning. And since then, I have been doing my absolute best to learn as much as I can about ML, specifically deep learning.
 
-My research interests are a bit broad since I'm already exploring. I'm interested in NLP/CV/RL. Some might say these are related topics, but I want to explore them individually and combine them at the end.
+My research interests are a bit broad since I'm already exploring. I'm interested in NLP/CV.
 
 Also, last year I got accepted into New Jersey Institute of Technology for Fall 2025 with a full scholarship. However, I couldn't attend due to visa issues.
 
-<!--
+
 # Previous Experience
 
 ## METU BILTIR Center
@@ -29,4 +29,3 @@ I worked at this small startup as a design engineer intern during the summer of 
 **Lesson learned:** Build for the sake of building not for the money.
 
 
--->

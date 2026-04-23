@@ -19,7 +19,7 @@ Education
 
 Work experience
 ======
-* Dec 2024 - Present: Human Data
+* Dec 2025 - Present: Human Data
   * xAI
   * Feeding Grok with quality data in MACROHARD and post-training teams.
 
